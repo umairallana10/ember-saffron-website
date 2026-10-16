@@ -1,0 +1,6 @@
+{
+  "name": "Ember & Saffron | Modern Middle Eastern Restaurant",
+  "description": "Modern Middle Eastern fine dining in Manama, Bahrain. Live ember grilling, Persian saffron gastronomy, and Arabian Gulf seasonal cuisine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
